@@ -1,0 +1,46 @@
+body{
+    font-family: 'Balsamiq Sans';
+}
+.background{
+    border: 2px solid rgb(160, 160, 160);
+    margin-top: 100px;
+    margin-left: 300px;
+    width: 650px;
+    
+}
+.barra{
+    background-color: rgb(4, 160 , 160);
+    height: 70px;    
+}
+.barra > img{
+    width: 80px;
+    position: relative;
+    top: 30px;
+    left: 20px;
+    border: 2px solid rgb(160, 160, 160);
+    border-radius: 50%;
+    padding: 2px;
+    background-color: white;
+}
+.contenido{
+    margin-top: 50px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+.lugar{
+    width: 10px;
+    padding: 5px;
+}
+.tornillo{
+    width: 15px;
+    padding: 5px;
+}
+.ubr, .editar{
+    vertical-align: 7px;
+}
+.skiller{
+    margin-bottom: 5px;
+}
+.tituloUni{
+    margin-top: 0;
+}
